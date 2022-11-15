@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+body {
+    background-color: slategray;
+}
+
+.content{
+    padding: 10%;
+}
+
+.container2 {
+    color: black;
+    display: block;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    line-height: 25.6px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-decoration-line: none;
+    text-decoration-color: black;
+    text-decoration-style: solid;
+    text-decoration-thickness: auto;
+    text-size-adjust: 100%;
+    border: 2px solid black;
+    background-color: beige;
+    border-radius: 10px;
+}
